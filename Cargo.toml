@@ -1,0 +1,16 @@
+[package]
+name = "aboutme-x509"
+version = "0.1.0"
+edition = "2024"
+description = "A CLI tool to generate a personal 'About Me' profile as an X.509 certificate."
+authors = ["kanywst"]
+
+[dependencies]
+chrono = "0.4.43"
+clap = { version = "4.5.58", features = ["derive"] }
+pem = "3.0.6"
+rcgen = "0.14.7"
+dialoguer = "0.12.0"
+anyhow = "1.0.101"
+tracing = "0.1.44"
+tracing-subscriber = "0.3.22"

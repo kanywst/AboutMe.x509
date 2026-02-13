@@ -17,8 +17,8 @@
 |__________________________________________|
 |                                          |
 |  NAME: [ kanywst                      ]  |
-|  ROLE: [ Modern CLI Architect          ]  |
-|  SIGN: [ Ed25519 (Secure 2026)         ]  |
+|  ROLE: [ Developer          ].           |
+|  SIGN: [ Ed25519 (Secure 2026)        ]  |
 |__________________________________________|
 ```
 
@@ -89,4 +89,3 @@ This project is built for the **2024/2026 Rust ecosystem**. We use `just` to orc
 ## License
 
 Distributed under the **MIT License**.
-# AboutMe.x509
