@@ -6,7 +6,7 @@
 
 > **"Your identity, cryptographically signed and universally verifiable."**
 
-[![CI](https://github.com/kanywst/aboutme-x509/actions/workflows/ci.yml/badge.svg)](https://github.com/kanywst/aboutme-x509/actions)
+[![CI](https://github.com/kanywst/AboutMe.x509/actions/workflows/ci.yml/badge.svg)](https://github.com/kanywst/AboutMe.x509/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Rust: 2024 Edition](https://img.shields.io/badge/Rust-2024_Edition-orange.svg)](https://www.rust-lang.org/)
 
